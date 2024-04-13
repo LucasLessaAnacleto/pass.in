@@ -29,7 +29,7 @@ Para o participante fazer o check-in ele deve escanear um qr code com o celular.
 
 ## Detalhes
 
-Essa aplicação utiliza a API desenvolvida nesse outro [repositório](https://LucasLessaAnacleto.github.com/pass.in-api).
+Essa aplicação utiliza a API desenvolvida nesse outro [repositório](https://github.com/LucasLessaAnacleto/pass.in-api).
 
 Esse app foi feito junto ao NLW 2024, um evento gratuito da rockeatseat.
 
@@ -107,7 +107,7 @@ Para iniciar este projeto, siga estas etapas simples:
 Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 - Node.js (versão 20.X.X ou superior)
 - npm (gerenciador de pacotes do Node.js)
-- Ter o projeto back-end desse app rodando na máquina, seguindo esses passos [aqui](https://github.com/LucasLessaAnacleto/https://github.com/LucasLessaAnacleto/pass.in-api?tab=readme-ov-file#iniciar-a-aplica%C3%A7%C3%A3o) 
+- Ter o projeto back-end desse app rodando na máquina, seguindo esses passos [aqui](https://github.com/LucasLessaAnacleto/pass.in-api?tab=readme-ov-file#iniciar-a-aplica%C3%A7%C3%A3o) 
 
 ### Passos
 
