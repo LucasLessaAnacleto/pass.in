@@ -78,24 +78,24 @@ Faker js, utilizei no começo do desenvolvimento do app, até eu utilizar o back
 A aplicação é apenas a página que o organizador visualiza os participantes do seu evento.
 
 <img src="./readme-img/attendees.jpg">
-<br><br>
+<br>
 
 Possui a parte de páginação.
 
 <img src="./readme-img/attendees_pagination.jpg">
-<br><br>
+<br>
 
 E de pesquisa.
 
 <img src="./readme-img/attendees_search.jpg">
-<br><br>
+<br>
 
 E de URL State, onde a página e a busca na barra de pesquisa ficam guardadas na URL, e se recarregar a página ou compartilhar o link para outra pessoa, ela não perde o conteúdo.
 
 <img src="./readme-img/attendees_urlstate.jpg">
-<br><br>
+<br>
 <img src="./readme-img/attendees_url.jpg">
-<br><br>
+<br>
 
 ## Iniciar a aplicação  
 
