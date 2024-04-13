@@ -9,8 +9,9 @@ O objetivo desse projeto não era a aplicação em si, e sim os resultados no ap
 - [Funcionamento do App](#funcionamento-do-app)
 - [Detalhes](#detalhes)
 - [Especificações das Tencologias](#especificações-das-tecnologias)
-- [Lógica da Aplicação](#lógica-da-aplicação)
 - [Interface](#interface)
+- [Iniciar aplicação](#lógica-da-aplicação)
+
 
 ## Funcionamento do App
 
