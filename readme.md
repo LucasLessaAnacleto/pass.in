@@ -76,6 +76,8 @@ Faker js, utilizei no começo do desenvolvimento do app, até eu utilizar o back
 
 ## Interface
 
+[Teste aqui](https://pass-in-ivory.vercel.app/)
+
 A aplicação é apenas a página que o organizador visualiza os participantes do seu evento.
 
 <img src="./readme-img/attendees.jpg">
