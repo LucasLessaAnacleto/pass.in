@@ -36,7 +36,9 @@ export function AttendeeList(){
     const maxPage = Math.ceil(total / 10);
 
     useEffect(() => {
-        const url = new URL("http://localhost:3333/events/2197ef89-7dfc-4082-b85c-522abe26443d/attendees");
+        const baseUrl = "https://pass-in-api-kost.onrender.com";
+        const eventID = "2197ef89-7dfc-4082-b85c-522abe26443d";
+        const url = new URL(`${baseUrl || "http://localhost:3333"}/events/${eventID}/attendees`);
 
         url.searchParams.set("pageIndex", String(page - 1));
 
